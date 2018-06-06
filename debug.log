@@ -1,0 +1,178 @@
+[ { TestScenario: 'Module1', RunStatus: 'Y' },
+  { TestScenario: 'Oracle', RunStatus: 'N' },
+  { TestScenario: 'Module3', RunStatus: 'N' },
+  { TestScenario: 'Module4', RunStatus: 'N' } ]
+Specs to run is TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec.js
+[ 'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec.js' ]
+[10:47:28] I/launcher - Running 1 instances of WebDriver
+[10:47:28] I/direct - Using ChromeDriver directly...
+[ { SerialNumber: 'CD1',
+    URL: 'http://juliemr.github.io/protractor-demo/' },
+  { SerialNumber: 'CD2',
+    URL: 'https://login-aufsn4x0dva.oracleoutsourcing.com/oam/server/obrareq.cgi?encquery%3DQSVVo2LOCVQWrVu6XmrgZ%2FdFvl4bhEoRShyGmbNOePoH%2F7Ea7OCYV24xB5EoRalRWDkkQZ6TyWFO8Q%2BzaViIXahjY0MZNP5OE%2B458Qs9T9mFrVw7SV4uB76Hi21f7jLxDFZlbZpbCU9%2BsOzGXKNOs%2FXo59E2thyP02gTBmFNRd8ngqwYgVVHVd4WfIQmunWZRrS50ZSp56gU5w2wPYB1MOX8wEgdhwdXraQ%2FwILxJrapPsJR5mRm9o%2FltAy%2Fb%2BZVmkBpAZj7%2FAqreCWYYhmQ2Kjg1Er3ybTqnTqjiRDcxCskPhSdyoGs6x0g0tMu0cHx4aPVpiHP4bHKDa9eZc9hrWLrrYmZpI%2B1QQllfjm7oQYUR%2BuJfEUhObltQFYw5KqZDTpWuskkmknuVmoYakZS5pIC7GYMadOjKMcqUSfOa5oCZvCltl9WzEHXK66LdGOkKIMTSPPkokZtD7QUhVTr0w4EvF1aZhA5gjpd5awnoQEQrIFAEhHtwblfxUQDY15g%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2&ECID-Context=1.005MB0f66pn9Hf73VJePR80002NI0000Sn%3BkXhgv0ZCLILIIV8QjTPPGHRP_V9O%5EMPGpKSQ_UOTdJPOoPRRiG',
+    Username: 'schakraborty@test.com',
+    Password: 'Welcome1' } ]
+Started
+[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m
+
+
+7 specs, 0 failures
+Finished in 22.891 seconds
+
+[10:47:57] I/launcher - 0 instance(s) of WebDriver still running
+[10:47:57] I/launcher - chrome #01 passed
+[ { TestScenario: 'Module1', RunStatus: 'Y' },
+  { TestScenario: 'Oracle', RunStatus: 'N' },
+  { TestScenario: 'Module3', RunStatus: 'N' },
+  { TestScenario: 'Module4', RunStatus: 'N' } ]
+Specs to run is TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec1.js
+[ 'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec1.js' ]
+[10:50:47] I/launcher - Running 1 instances of WebDriver
+[10:50:47] I/direct - Using FirefoxDriver directly...
+[ { SerialNumber: 'CD1',
+    URL: 'http://juliemr.github.io/protractor-demo/' },
+  { SerialNumber: 'CD2',
+    URL: 'https://login-aufsn4x0dva.oracleoutsourcing.com/oam/server/obrareq.cgi?encquery%3DQSVVo2LOCVQWrVu6XmrgZ%2FdFvl4bhEoRShyGmbNOePoH%2F7Ea7OCYV24xB5EoRalRWDkkQZ6TyWFO8Q%2BzaViIXahjY0MZNP5OE%2B458Qs9T9mFrVw7SV4uB76Hi21f7jLxDFZlbZpbCU9%2BsOzGXKNOs%2FXo59E2thyP02gTBmFNRd8ngqwYgVVHVd4WfIQmunWZRrS50ZSp56gU5w2wPYB1MOX8wEgdhwdXraQ%2FwILxJrapPsJR5mRm9o%2FltAy%2Fb%2BZVmkBpAZj7%2FAqreCWYYhmQ2Kjg1Er3ybTqnTqjiRDcxCskPhSdyoGs6x0g0tMu0cHx4aPVpiHP4bHKDa9eZc9hrWLrrYmZpI%2B1QQllfjm7oQYUR%2BuJfEUhObltQFYw5KqZDTpWuskkmknuVmoYakZS5pIC7GYMadOjKMcqUSfOa5oCZvCltl9WzEHXK66LdGOkKIMTSPPkokZtD7QUhVTr0w4EvF1aZhA5gjpd5awnoQEQrIFAEhHtwblfxUQDY15g%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2&ECID-Context=1.005MB0f66pn9Hf73VJePR80002NI0000Sn%3BkXhgv0ZCLILIIV8QjTPPGHRP_V9O%5EMPGpKSQ_UOTdJPOoPRRiG',
+    Username: 'schakraborty@test.com',
+    Password: 'Welcome1' } ]
+[ { SerialNumber: 'CD1',
+    URL: 'http://juliemr.github.io/protractor-demo/' },
+  { SerialNumber: 'CD2',
+    URL: 'https://login-aufsn4x0dva.oracleoutsourcing.com/oam/server/obrareq.cgi?encquery%3DQSVVo2LOCVQWrVu6XmrgZ%2FdFvl4bhEoRShyGmbNOePoH%2F7Ea7OCYV24xB5EoRalRWDkkQZ6TyWFO8Q%2BzaViIXahjY0MZNP5OE%2B458Qs9T9mFrVw7SV4uB76Hi21f7jLxDFZlbZpbCU9%2BsOzGXKNOs%2FXo59E2thyP02gTBmFNRd8ngqwYgVVHVd4WfIQmunWZRrS50ZSp56gU5w2wPYB1MOX8wEgdhwdXraQ%2FwILxJrapPsJR5mRm9o%2FltAy%2Fb%2BZVmkBpAZj7%2FAqreCWYYhmQ2Kjg1Er3ybTqnTqjiRDcxCskPhSdyoGs6x0g0tMu0cHx4aPVpiHP4bHKDa9eZc9hrWLrrYmZpI%2B1QQllfjm7oQYUR%2BuJfEUhObltQFYw5KqZDTpWuskkmknuVmoYakZS5pIC7GYMadOjKMcqUSfOa5oCZvCltl9WzEHXK66LdGOkKIMTSPPkokZtD7QUhVTr0w4EvF1aZhA5gjpd5awnoQEQrIFAEhHtwblfxUQDY15g%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2&ECID-Context=1.005MB0f66pn9Hf73VJePR80002NI0000Sn%3BkXhgv0ZCLILIIV8QjTPPGHRP_V9O%5EMPGpKSQ_UOTdJPOoPRRiG',
+    Username: 'schakraborty@test.com',
+    Password: 'Welcome1' } ]
+Started
+[10:51:11] E/protractor - Could not find Angular on page http://juliemr.github.io/protractor-demo/ : retries looking for angular exceeded
+[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[ { TestScenario: 'Module1', RunStatus: 'Y' },
+  { TestScenario: 'Oracle', RunStatus: 'N' },
+  { TestScenario: 'Module3', RunStatus: 'N' },
+  { TestScenario: 'Module4', RunStatus: 'N' } ]
+Specs to run is TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec1.js
+[ 'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec1.js' ]
+[10:51:57] I/launcher - Running 1 instances of WebDriver
+[10:51:57] I/direct - Using ChromeDriver directly...
+[ { SerialNumber: 'CD1',
+    URL: 'http://juliemr.github.io/protractor-demo/' },
+  { SerialNumber: 'CD2',
+    URL: 'https://login-aufsn4x0dva.oracleoutsourcing.com/oam/server/obrareq.cgi?encquery%3DQSVVo2LOCVQWrVu6XmrgZ%2FdFvl4bhEoRShyGmbNOePoH%2F7Ea7OCYV24xB5EoRalRWDkkQZ6TyWFO8Q%2BzaViIXahjY0MZNP5OE%2B458Qs9T9mFrVw7SV4uB76Hi21f7jLxDFZlbZpbCU9%2BsOzGXKNOs%2FXo59E2thyP02gTBmFNRd8ngqwYgVVHVd4WfIQmunWZRrS50ZSp56gU5w2wPYB1MOX8wEgdhwdXraQ%2FwILxJrapPsJR5mRm9o%2FltAy%2Fb%2BZVmkBpAZj7%2FAqreCWYYhmQ2Kjg1Er3ybTqnTqjiRDcxCskPhSdyoGs6x0g0tMu0cHx4aPVpiHP4bHKDa9eZc9hrWLrrYmZpI%2B1QQllfjm7oQYUR%2BuJfEUhObltQFYw5KqZDTpWuskkmknuVmoYakZS5pIC7GYMadOjKMcqUSfOa5oCZvCltl9WzEHXK66LdGOkKIMTSPPkokZtD7QUhVTr0w4EvF1aZhA5gjpd5awnoQEQrIFAEhHtwblfxUQDY15g%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2&ECID-Context=1.005MB0f66pn9Hf73VJePR80002NI0000Sn%3BkXhgv0ZCLILIIV8QjTPPGHRP_V9O%5EMPGpKSQ_UOTdJPOoPRRiG',
+    Username: 'schakraborty@test.com',
+    Password: 'Welcome1' } ]
+[ { SerialNumber: 'CD1',
+    URL: 'http://juliemr.github.io/protractor-demo/' },
+  { SerialNumber: 'CD2',
+    URL: 'https://login-aufsn4x0dva.oracleoutsourcing.com/oam/server/obrareq.cgi?encquery%3DQSVVo2LOCVQWrVu6XmrgZ%2FdFvl4bhEoRShyGmbNOePoH%2F7Ea7OCYV24xB5EoRalRWDkkQZ6TyWFO8Q%2BzaViIXahjY0MZNP5OE%2B458Qs9T9mFrVw7SV4uB76Hi21f7jLxDFZlbZpbCU9%2BsOzGXKNOs%2FXo59E2thyP02gTBmFNRd8ngqwYgVVHVd4WfIQmunWZRrS50ZSp56gU5w2wPYB1MOX8wEgdhwdXraQ%2FwILxJrapPsJR5mRm9o%2FltAy%2Fb%2BZVmkBpAZj7%2FAqreCWYYhmQ2Kjg1Er3ybTqnTqjiRDcxCskPhSdyoGs6x0g0tMu0cHx4aPVpiHP4bHKDa9eZc9hrWLrrYmZpI%2B1QQllfjm7oQYUR%2BuJfEUhObltQFYw5KqZDTpWuskkmknuVmoYakZS5pIC7GYMadOjKMcqUSfOa5oCZvCltl9WzEHXK66LdGOkKIMTSPPkokZtD7QUhVTr0w4EvF1aZhA5gjpd5awnoQEQrIFAEhHtwblfxUQDY15g%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2&ECID-Context=1.005MB0f66pn9Hf73VJePR80002NI0000Sn%3BkXhgv0ZCLILIIV8QjTPPGHRP_V9O%5EMPGpKSQ_UOTdJPOoPRRiG',
+    Username: 'schakraborty@test.com',
+    Password: 'Welcome1' } ]
+Started
+[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m
+
+
+14 specs, 0 failures
+Finished in 23.429 seconds
+
+[10:52:26] I/launcher - 0 instance(s) of WebDriver still running
+[10:52:26] I/launcher - chrome #01 passed
+[ { TestScenario: 'Module1', RunStatus: 'Y' },
+  { TestScenario: 'Oracle', RunStatus: 'N' },
+  { TestScenario: 'Module3', RunStatus: 'N' },
+  { TestScenario: 'Module4', RunStatus: 'N' } ]
+Specs to run is TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec1.js
+[ 'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec1.js' ]
+[16:11:15] I/launcher - Running 1 instances of WebDriver
+[16:11:15] I/direct - Using ChromeDriver directly...
+[ { SerialNumber: 'CD1',
+    URL: 'http://juliemr.github.io/protractor-demo/' },
+  { SerialNumber: 'CD2',
+    URL: 'https://login-aufsn4x0dva.oracleoutsourcing.com/oam/server/obrareq.cgi?encquery%3DQSVVo2LOCVQWrVu6XmrgZ%2FdFvl4bhEoRShyGmbNOePoH%2F7Ea7OCYV24xB5EoRalRWDkkQZ6TyWFO8Q%2BzaViIXahjY0MZNP5OE%2B458Qs9T9mFrVw7SV4uB76Hi21f7jLxDFZlbZpbCU9%2BsOzGXKNOs%2FXo59E2thyP02gTBmFNRd8ngqwYgVVHVd4WfIQmunWZRrS50ZSp56gU5w2wPYB1MOX8wEgdhwdXraQ%2FwILxJrapPsJR5mRm9o%2FltAy%2Fb%2BZVmkBpAZj7%2FAqreCWYYhmQ2Kjg1Er3ybTqnTqjiRDcxCskPhSdyoGs6x0g0tMu0cHx4aPVpiHP4bHKDa9eZc9hrWLrrYmZpI%2B1QQllfjm7oQYUR%2BuJfEUhObltQFYw5KqZDTpWuskkmknuVmoYakZS5pIC7GYMadOjKMcqUSfOa5oCZvCltl9WzEHXK66LdGOkKIMTSPPkokZtD7QUhVTr0w4EvF1aZhA5gjpd5awnoQEQrIFAEhHtwblfxUQDY15g%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2&ECID-Context=1.005MB0f66pn9Hf73VJePR80002NI0000Sn%3BkXhgv0ZCLILIIV8QjTPPGHRP_V9O%5EMPGpKSQ_UOTdJPOoPRRiG',
+    Username: 'schakraborty@test.com',
+    Password: 'Welcome1' } ]
+[ { SerialNumber: 'CD1',
+    URL: 'http://juliemr.github.io/protractor-demo/' },
+  { SerialNumber: 'CD2',
+    URL: 'https://login-aufsn4x0dva.oracleoutsourcing.com/oam/server/obrareq.cgi?encquery%3DQSVVo2LOCVQWrVu6XmrgZ%2FdFvl4bhEoRShyGmbNOePoH%2F7Ea7OCYV24xB5EoRalRWDkkQZ6TyWFO8Q%2BzaViIXahjY0MZNP5OE%2B458Qs9T9mFrVw7SV4uB76Hi21f7jLxDFZlbZpbCU9%2BsOzGXKNOs%2FXo59E2thyP02gTBmFNRd8ngqwYgVVHVd4WfIQmunWZRrS50ZSp56gU5w2wPYB1MOX8wEgdhwdXraQ%2FwILxJrapPsJR5mRm9o%2FltAy%2Fb%2BZVmkBpAZj7%2FAqreCWYYhmQ2Kjg1Er3ybTqnTqjiRDcxCskPhSdyoGs6x0g0tMu0cHx4aPVpiHP4bHKDa9eZc9hrWLrrYmZpI%2B1QQllfjm7oQYUR%2BuJfEUhObltQFYw5KqZDTpWuskkmknuVmoYakZS5pIC7GYMadOjKMcqUSfOa5oCZvCltl9WzEHXK66LdGOkKIMTSPPkokZtD7QUhVTr0w4EvF1aZhA5gjpd5awnoQEQrIFAEhHtwblfxUQDY15g%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2&ECID-Context=1.005MB0f66pn9Hf73VJePR80002NI0000Sn%3BkXhgv0ZCLILIIV8QjTPPGHRP_V9O%5EMPGpKSQ_UOTdJPOoPRRiG',
+    Username: 'schakraborty@test.com',
+    Password: 'Welcome1' } ]
+Started
+[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m
+
+
+14 specs, 0 failures
+Finished in 21.626 seconds
+
+[16:11:45] I/launcher - 0 instance(s) of WebDriver still running
+[16:11:45] I/launcher - chrome #01 passed
+[ { TestScenario: 'Module1', RunStatus: 'Y' },
+  { TestScenario: 'Oracle', RunStatus: 'N' },
+  { TestScenario: 'Module3', RunStatus: 'N' },
+  { TestScenario: 'Module4', RunStatus: 'N' } ]
+Specs to run is TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec1.js
+[ 'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec1.js' ]
+[16:13:38] I/launcher - Running 1 instances of WebDriver
+[16:13:38] I/direct - Using ChromeDriver directly...
+[ { SerialNumber: 'CD1',
+    URL: 'http://juliemr.github.io/protractor-demo/' },
+  { SerialNumber: 'CD2',
+    URL: 'https://login-aufsn4x0dva.oracleoutsourcing.com/oam/server/obrareq.cgi?encquery%3DQSVVo2LOCVQWrVu6XmrgZ%2FdFvl4bhEoRShyGmbNOePoH%2F7Ea7OCYV24xB5EoRalRWDkkQZ6TyWFO8Q%2BzaViIXahjY0MZNP5OE%2B458Qs9T9mFrVw7SV4uB76Hi21f7jLxDFZlbZpbCU9%2BsOzGXKNOs%2FXo59E2thyP02gTBmFNRd8ngqwYgVVHVd4WfIQmunWZRrS50ZSp56gU5w2wPYB1MOX8wEgdhwdXraQ%2FwILxJrapPsJR5mRm9o%2FltAy%2Fb%2BZVmkBpAZj7%2FAqreCWYYhmQ2Kjg1Er3ybTqnTqjiRDcxCskPhSdyoGs6x0g0tMu0cHx4aPVpiHP4bHKDa9eZc9hrWLrrYmZpI%2B1QQllfjm7oQYUR%2BuJfEUhObltQFYw5KqZDTpWuskkmknuVmoYakZS5pIC7GYMadOjKMcqUSfOa5oCZvCltl9WzEHXK66LdGOkKIMTSPPkokZtD7QUhVTr0w4EvF1aZhA5gjpd5awnoQEQrIFAEhHtwblfxUQDY15g%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2&ECID-Context=1.005MB0f66pn9Hf73VJePR80002NI0000Sn%3BkXhgv0ZCLILIIV8QjTPPGHRP_V9O%5EMPGpKSQ_UOTdJPOoPRRiG',
+    Username: 'schakraborty@test.com',
+    Password: 'Welcome1' } ]
+[ { SerialNumber: 'CD1',
+    URL: 'http://juliemr.github.io/protractor-demo/' },
+  { SerialNumber: 'CD2',
+    URL: 'https://login-aufsn4x0dva.oracleoutsourcing.com/oam/server/obrareq.cgi?encquery%3DQSVVo2LOCVQWrVu6XmrgZ%2FdFvl4bhEoRShyGmbNOePoH%2F7Ea7OCYV24xB5EoRalRWDkkQZ6TyWFO8Q%2BzaViIXahjY0MZNP5OE%2B458Qs9T9mFrVw7SV4uB76Hi21f7jLxDFZlbZpbCU9%2BsOzGXKNOs%2FXo59E2thyP02gTBmFNRd8ngqwYgVVHVd4WfIQmunWZRrS50ZSp56gU5w2wPYB1MOX8wEgdhwdXraQ%2FwILxJrapPsJR5mRm9o%2FltAy%2Fb%2BZVmkBpAZj7%2FAqreCWYYhmQ2Kjg1Er3ybTqnTqjiRDcxCskPhSdyoGs6x0g0tMu0cHx4aPVpiHP4bHKDa9eZc9hrWLrrYmZpI%2B1QQllfjm7oQYUR%2BuJfEUhObltQFYw5KqZDTpWuskkmknuVmoYakZS5pIC7GYMadOjKMcqUSfOa5oCZvCltl9WzEHXK66LdGOkKIMTSPPkokZtD7QUhVTr0w4EvF1aZhA5gjpd5awnoQEQrIFAEhHtwblfxUQDY15g%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2&ECID-Context=1.005MB0f66pn9Hf73VJePR80002NI0000Sn%3BkXhgv0ZCLILIIV8QjTPPGHRP_V9O%5EMPGpKSQ_UOTdJPOoPRRiG',
+    Username: 'schakraborty@test.com',
+    Password: 'Welcome1' } ]
+Started
+[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m
+
+
+14 specs, 0 failures
+Finished in 22.977 seconds
+
+[16:14:07] I/launcher - 0 instance(s) of WebDriver still running
+[16:14:07] I/launcher - chrome #01 passed
+[ { TestScenario: 'Module1', RunStatus: 'Y' },
+  { TestScenario: 'Oracle', RunStatus: 'N' },
+  { TestScenario: 'Module3', RunStatus: 'N' },
+  { TestScenario: 'Module4', RunStatus: 'N' } ]
+Specs to run is TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec.js,TestSpecs/Module1/todo-spec1.js
+[ 'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec.js',
+  'TestSpecs/Module1/todo-spec1.js' ]
+[17:09:37] I/launcher - Running 1 instances of WebDriver
+[17:09:37] I/direct - Using ChromeDriver directly...
+[ { SerialNumber: 'CD1',
+    URL: 'http://juliemr.github.io/protractor-demo/' },
+  { SerialNumber: 'CD2',
+    URL: 'https://login-aufsn4x0dva.oracleoutsourcing.com/oam/server/obrareq.cgi?encquery%3DQSVVo2LOCVQWrVu6XmrgZ%2FdFvl4bhEoRShyGmbNOePoH%2F7Ea7OCYV24xB5EoRalRWDkkQZ6TyWFO8Q%2BzaViIXahjY0MZNP5OE%2B458Qs9T9mFrVw7SV4uB76Hi21f7jLxDFZlbZpbCU9%2BsOzGXKNOs%2FXo59E2thyP02gTBmFNRd8ngqwYgVVHVd4WfIQmunWZRrS50ZSp56gU5w2wPYB1MOX8wEgdhwdXraQ%2FwILxJrapPsJR5mRm9o%2FltAy%2Fb%2BZVmkBpAZj7%2FAqreCWYYhmQ2Kjg1Er3ybTqnTqjiRDcxCskPhSdyoGs6x0g0tMu0cHx4aPVpiHP4bHKDa9eZc9hrWLrrYmZpI%2B1QQllfjm7oQYUR%2BuJfEUhObltQFYw5KqZDTpWuskkmknuVmoYakZS5pIC7GYMadOjKMcqUSfOa5oCZvCltl9WzEHXK66LdGOkKIMTSPPkokZtD7QUhVTr0w4EvF1aZhA5gjpd5awnoQEQrIFAEhHtwblfxUQDY15g%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2&ECID-Context=1.005MB0f66pn9Hf73VJePR80002NI0000Sn%3BkXhgv0ZCLILIIV8QjTPPGHRP_V9O%5EMPGpKSQ_UOTdJPOoPRRiG',
+    Username: 'schakraborty@test.com',
+    Password: 'Welcome1' } ]
+[ { SerialNumber: 'CD1',
+    URL: 'http://juliemr.github.io/protractor-demo/' },
+  { SerialNumber: 'CD2',
+    URL: 'https://login-aufsn4x0dva.oracleoutsourcing.com/oam/server/obrareq.cgi?encquery%3DQSVVo2LOCVQWrVu6XmrgZ%2FdFvl4bhEoRShyGmbNOePoH%2F7Ea7OCYV24xB5EoRalRWDkkQZ6TyWFO8Q%2BzaViIXahjY0MZNP5OE%2B458Qs9T9mFrVw7SV4uB76Hi21f7jLxDFZlbZpbCU9%2BsOzGXKNOs%2FXo59E2thyP02gTBmFNRd8ngqwYgVVHVd4WfIQmunWZRrS50ZSp56gU5w2wPYB1MOX8wEgdhwdXraQ%2FwILxJrapPsJR5mRm9o%2FltAy%2Fb%2BZVmkBpAZj7%2FAqreCWYYhmQ2Kjg1Er3ybTqnTqjiRDcxCskPhSdyoGs6x0g0tMu0cHx4aPVpiHP4bHKDa9eZc9hrWLrrYmZpI%2B1QQllfjm7oQYUR%2BuJfEUhObltQFYw5KqZDTpWuskkmknuVmoYakZS5pIC7GYMadOjKMcqUSfOa5oCZvCltl9WzEHXK66LdGOkKIMTSPPkokZtD7QUhVTr0w4EvF1aZhA5gjpd5awnoQEQrIFAEhHtwblfxUQDY15g%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2&ECID-Context=1.005MB0f66pn9Hf73VJePR80002NI0000Sn%3BkXhgv0ZCLILIIV8QjTPPGHRP_V9O%5EMPGpKSQ_UOTdJPOoPRRiG',
+    Username: 'schakraborty@test.com',
+    Password: 'Welcome1' } ]
+Started
+[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m
+
+
+14 specs, 0 failures
+Finished in 29.853 seconds
+
+[17:10:12] I/launcher - 0 instance(s) of WebDriver still running
+[17:10:12] I/launcher - chrome #01 passed
